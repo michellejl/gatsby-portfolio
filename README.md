@@ -1,26 +1,30 @@
-# gatsby-starter-default
-The default Gatsby starter.
+# Michelle JL
+Portfolio built with Gatsby and Contentful
 
-For an overview of the project structure please refer to the [Gatsby documentation - Building with Components](https://www.gatsbyjs.org/docs/building-with-components/).
 
-## Install
+# Things Used to Build this Project:
 
-Make sure that you have the Gatsby CLI program installed:
-```sh
-npm install --global gatsby-cli
-```
+## Technologies
+- Gatsby
+  - HTML
+  - CSS / Sass (SCSS)
+  - JavaScript
+  - React
+  - GraphQL
+- Contentful
 
-And run from your CLI:
-```sh
-gatsby new gatsby-example-site
-```
+## Tools
+- VS Code Insider Edition
+- Sketch
+- Firefox Developer Edition
 
-Then you can run it by:
-```sh
-cd gatsby-example-site
-gatsby develop
-```
+## Concepts
+- Content(data) First Development
+- Mobile First Design
 
-## Deploy
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gatsbyjs/gatsby-starter-default)
+# TODO:
+
+## /now
+  - archives of old /now updates
+  - make sure now.js component is always pulling in the most recent update.
