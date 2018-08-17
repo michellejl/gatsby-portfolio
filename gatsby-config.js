@@ -17,5 +17,13 @@ module.exports = {
       },
     },
     'gatsby-plugin-offline',
+    `gatsby-plugin-sass`,
+    {
+      resolve: `gatsby-source-contentful`,
+      options: {
+        spaceId: `r7cyj3cr2xt1`,
+        accessToken: `6dfa472801a70251dfd82d91f295b7c51f9868eb7051cb07f4c80cb2005a5cf8`,
+      },
+    },
   ],
 }
