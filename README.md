@@ -25,6 +25,8 @@ Portfolio built with Gatsby and Contentful
 
 # TODO:
 
+- Parse markdown brought in from Contentful (for when content might be more complicated than basically a single paragraph of text.)
+
 ## /now
   - archives of old /now updates
   - make sure now.js component is always pulling in the most recent update.
